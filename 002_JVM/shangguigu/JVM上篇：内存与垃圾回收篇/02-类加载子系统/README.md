@@ -268,3 +268,7 @@ Java 程序对类的使用方式分为：主动使用和被动使用。
   REF_getStatic、REF_putStatic、REF_invokeStatic 句柄对应的类没有初始化，则初始化
 
 除了以上七种情况，其他使用 Java 类的方式都被看作是对<mark>类的被动使用</mark>，都<mark>不会导致类的初始化</mark>。
+
+
+
+##修改master
